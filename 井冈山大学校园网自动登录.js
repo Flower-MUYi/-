@@ -10,8 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @license      MIT
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://update.greasyfork.org/scripts/548502/%E4%BA%95%E5%86%88%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95.user.js
+// @updateURL    https://update.greasyfork.org/scripts/548502/%E4%BA%95%E5%86%88%E5%B1%B1%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95.meta.js
 // ==/UserScript==
 
 /**
@@ -845,4 +845,5 @@ function initScript() {
 }
 
 // 启动脚本
+
 initScript();
